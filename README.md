@@ -1,2 +1,2 @@
 # goalHash
-Library for hashing data in Go.
+Go library for hashing data.
